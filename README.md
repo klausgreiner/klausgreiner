@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn random facts about anything really
 - 🎧 I'm currently listening to [Not Another D&D Podcast](https://open.spotify.com/show/5GcTIDkgnB9wP6CmUyOSqa?si=a4bd350820be4b24)
-- 🇧🇷 🇪🇺 I'll be moving to europe in the next year
+- 🇧🇷 🇪🇺 HOPEFULLY Next year I'll have two citizenships 🇧 🇧🇷 ❤️ 🇦🇹🇦
 
 ## 🧰 Languages and Tools:
 <p align="center">  
