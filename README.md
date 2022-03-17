@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about game design & react
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn random facts about anything really
-- 🎧 I'm currently listening to https://open.spotify.com/show/5GcTIDkgnB9wP6CmUyOSqa?si=a4bd350820be4b24
+- 🎧 I'm currently listening to (Not Another D&D Podcast)[https://open.spotify.com/show/5GcTIDkgnB9wP6CmUyOSqa?si=a4bd350820be4b24]
 - 🇧🇷 🇪🇺 I'll be moving to europe in the next year
 
 ## 🧰 Languages and Tools:
