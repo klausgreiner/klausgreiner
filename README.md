@@ -1,6 +1,8 @@
 ### Hello stranger! 👋
 
+- Let's talk!
 
+[![Linkedin: klausgreiner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/klausgreiner/)](https://www.linkedin.com/in/klausgreiner/)
 
 - 🔭 I’m currently working on Vesti Technology as a Software engineer
 - 💻 I'm Bsc in Computer Engineering
@@ -9,10 +11,6 @@
 - ⚡ Fun fact: I love to learn random facts about anything really
 - 🎧 I'm currently listening to [Not Another D&D Podcast](https://open.spotify.com/show/5GcTIDkgnB9wP6CmUyOSqa?si=a4bd350820be4b24)
 - 🇧🇷 🇪🇺 HOPEFULLY Next year I'll have two citizenships 🇧 🇧🇷 ❤️ 🇦🇹🇦
-
-- Let's talk!
-
-[![Linkedin: klausgreiner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/klausgreiner/)](https://www.linkedin.com/in/klausgreiner/)
 
 ## 🧰 Languages and Tools:
 <p align="center">  
