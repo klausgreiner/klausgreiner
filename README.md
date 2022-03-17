@@ -1,9 +1,8 @@
 ### Hello stranger! 👋
 
-## Let's talk!
+# Let's talk? ![Linkedin: klausgreiner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/klausgreiner/)](https://www.linkedin.com/in/klausgreiner/)
 
-[![Linkedin: klausgreiner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/klausgreiner/)](https://www.linkedin.com/in/klausgreiner/)
-
+## About me:
 - 🔭 I’m currently working on Vesti Technology as a Software engineer
 - 💻 I'm Bsc in Computer Engineering
 - 🌱 I’m currently learning about game design & react
