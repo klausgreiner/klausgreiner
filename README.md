@@ -1,9 +1,9 @@
 ### Hello stranger! 👋
 
 ## About me:
-- 🔭 I’m currently working on Vesti Technology as a Software engineer
+- 🔭 I’m currently working on Clique Retire as a Tech Lead Software engineer
 - 💻 I'm Bsc in Computer Engineering
-- 🌱 I’m currently learning about game design & react
+- 🌱 I’m currently learning about game design
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn random facts about anything really
 - 🎧 I'm currently listening to [Not Another D&D Podcast](https://open.spotify.com/show/5GcTIDkgnB9wP6CmUyOSqa?si=a4bd350820be4b24)
